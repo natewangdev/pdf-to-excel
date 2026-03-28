@@ -1,0 +1,7 @@
+img2table
+paddlepaddle
+paddleocr
+pdf2image
+openpyxl
+pandas
+click
